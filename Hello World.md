@@ -1,7 +1,7 @@
 # HELLO WORLD! (SCRATCH)
 
 ## Description
-This is a project in which a cat says "Hello World" when the program is ran. This was created to learn the fundamentals of programming and the Scratch language. This project aas created for Havard's CS50 Introduction to Programming Course.
+This is a project in which a cat says "Hello World" when the program is ran. This was created to learn the fundamentals of programming and the Scratch language. This project was created for Havard's CS50 Introduction to Programming Course.
 
 ## Tech Stack
 - Scratch
