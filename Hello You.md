@@ -1,7 +1,7 @@
 # HELLO YOU!
 
 ## Description
-This project takes the user's name and says hello to them. The major learning point in this project was accepting and manipulating a user's input, which is an essential skill for any project that the user will interact with. This was created for Havards CS50 Introduction to Computer Science Course.
+This project takes the user's name and says hello to them. The major learning point in this project was accepting and manipulating a user's input, which is an essential skill for creating any project that the user will interact with. This was created for Havards CS50 Introduction to Computer Science Course.
 
 ## Tech Stack
 - Scratch
